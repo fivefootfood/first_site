@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    font-family: helvetica;
+    background-color: #e0e0eb;
+}
+div {
+	border-radius: 10px;
+}
+
+h1 #name{
+    background-color: #f5d6eb;
+    padding: 10px;
+    border-radius: 10px
+}
+
+ul {
+    background-color: #f5d6eb;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px 0px 20px;
+}
+img {
+    
+}
+a {
+    color: black;
+    font-weight: bold;
+
+}
+
+button {
+
+}
+
+.header {
+
+}
+
+.navigation {
+
+}
+
+.social_buttons{
+
+}
+
+.about {
+
+}
+
+.previous {
+
+}
+
+.contact {
+
+}
+
+.blog {
+
+}
